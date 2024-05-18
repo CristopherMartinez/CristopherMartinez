@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CristopherMartinez
-- 👀 I’m interested in the front-end
+- 👀 I’m interested in the front-end, QA Tester.
 - 🌱 I’m currently learning a lot of things
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
