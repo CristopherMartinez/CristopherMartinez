@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @CristopherMartinez
-- 👀 I’m interested in the front-end, QA Tester.
+- 👀 I’m interested in the Frontend and Backend.
 - 🌱 I’m currently learning a lot of things
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 CristopherMartinez/CristopherMartinez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
